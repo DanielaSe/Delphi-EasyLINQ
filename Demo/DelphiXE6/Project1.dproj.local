@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.695,D:\Delphi XE\Linq\Unit1.pas=C:\Users\Daniela Sefzig\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,D:\Delphi XE\Linq\Project1.dproj=C:\Users\Daniela Sefzig\Documents\RAD Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,D:\Delphi XE\Linq\uCalculator.pas=D:\Delphi XE\Linq\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,D:\Delphi XE\Linq\Demo\Project1.dproj=D:\Delphi XE\Linq\Demo\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.698,D:\Delphi XE\Linq\linq.pas=D:\Delphi XE\Linq\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,D:\Delphi XE\Linq\Unit1.dfm=C:\Users\Daniela Sefzig\Documents\RAD Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,=C:\Users\Daniela Sefzig\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.073,=C:\Users\Daniela Sefzig\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.595,D:\Delphi XE\Linq\Calculator.pas=D:\Delphi XE\Linq\uCalculator.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,=D:\Delphi XE\Linq\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,=D:\Delphi XE\Linq\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
